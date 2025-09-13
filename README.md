@@ -42,12 +42,7 @@ python 汉字转换十进制Unicode编码.py
 
 该工具主要用于字体制作，将生成的编码和图片导入到FontCreator等字体编辑软件中，可以生成自定义字体库。
 ```
-
-
-
-# 核心GUI库
 tkinter
-
 # 注意：tkinter通常是Python标准库的一部分，不需要额外安装
 # 如果您的系统没有tkinter，请使用以下命令安装：
 # Ubuntu/Debian: sudo apt-get install python3-tk
